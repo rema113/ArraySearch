@@ -42,7 +42,7 @@ class LinearSearch {
 
                         int n = arr.length;
 
-                        int x = 4;
+                        int x = 5;
 
                         int index = search(arr, n, x);
 
