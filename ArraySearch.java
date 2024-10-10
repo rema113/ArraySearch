@@ -1,8 +1,9 @@
 // Java code for linearly search x in arr[]. If x
-
 // is present then return its location, otherwise
-
 // return -1
+//name :rema saed 
+//Id:445005754
+
 
 class LinearSearch {
 
